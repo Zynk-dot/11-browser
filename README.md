@@ -13,5 +13,5 @@ A private browser built using Electron, designed to offer a seamless and secure 
 
 Download the browser for your operating system:
 
-- **[Download for macOS](#https://drive.google.com/file/d/17j1DzYjEt-YvlU7rk6xE4gZpukLV6emi/view?usp=sharing)**
+- **[Download for macOS]** --> https://drive.google.com/file/d/17j1DzYjEt-YvlU7rk6xE4gZpukLV6emi/view?usp=sharing
 
