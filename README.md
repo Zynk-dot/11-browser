@@ -14,5 +14,5 @@
 #Darwin: 
 #        arm64: https://drive.google.com/file/d/17j1DzYjEt-YvlU7rk6xE4gZpukLV6emi/view?usp=sharing
 #        x64: https://drive.google.com/file/d/1j24UNyThmXRiefzmbj0NugpueZ9NEpi3/view?usp=sharing 
-#
+
 #Click the appropriate link to start the download and enjoy a more private browsing experience today.
